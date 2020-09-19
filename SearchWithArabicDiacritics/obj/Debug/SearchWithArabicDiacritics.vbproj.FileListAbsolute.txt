@@ -1,0 +1,12 @@
+C:\Users\Anoos\source\repos\SearchWithArabicDiacritics\SearchWithArabicDiacritics\bin\Debug\SearchWithArabicDiacritics.exe.config
+C:\Users\Anoos\source\repos\SearchWithArabicDiacritics\SearchWithArabicDiacritics\bin\Debug\SearchWithArabicDiacritics.exe
+C:\Users\Anoos\source\repos\SearchWithArabicDiacritics\SearchWithArabicDiacritics\bin\Debug\SearchWithArabicDiacritics.pdb
+C:\Users\Anoos\source\repos\SearchWithArabicDiacritics\SearchWithArabicDiacritics\bin\Debug\SearchWithArabicDiacritics.xml
+C:\Users\Anoos\source\repos\SearchWithArabicDiacritics\SearchWithArabicDiacritics\obj\Debug\SearchWithArabicDiacritics.vbprojAssemblyReference.cache
+C:\Users\Anoos\source\repos\SearchWithArabicDiacritics\SearchWithArabicDiacritics\obj\Debug\SearchWithArabicDiacritics.Form1.resources
+C:\Users\Anoos\source\repos\SearchWithArabicDiacritics\SearchWithArabicDiacritics\obj\Debug\SearchWithArabicDiacritics.Resources.resources
+C:\Users\Anoos\source\repos\SearchWithArabicDiacritics\SearchWithArabicDiacritics\obj\Debug\SearchWithArabicDiacritics.vbproj.GenerateResource.cache
+C:\Users\Anoos\source\repos\SearchWithArabicDiacritics\SearchWithArabicDiacritics\obj\Debug\SearchWithArabicDiacritics.vbproj.CoreCompileInputs.cache
+C:\Users\Anoos\source\repos\SearchWithArabicDiacritics\SearchWithArabicDiacritics\obj\Debug\SearchWithArabicDiacritics.exe
+C:\Users\Anoos\source\repos\SearchWithArabicDiacritics\SearchWithArabicDiacritics\obj\Debug\SearchWithArabicDiacritics.xml
+C:\Users\Anoos\source\repos\SearchWithArabicDiacritics\SearchWithArabicDiacritics\obj\Debug\SearchWithArabicDiacritics.pdb
